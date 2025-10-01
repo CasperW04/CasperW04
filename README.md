@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @CasperW04
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css, c#
+
